@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "animateSquare",
+    "slug": "animateSquare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
